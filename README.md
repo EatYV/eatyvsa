@@ -6,7 +6,7 @@ If you clone this repository on your system you have to know:
 ruby 2.4.2 - We should update to ruby 2.5.0
 
 * Rails veresion
-rails 5.1.5
+rails 5.1.3
 
 * System dependencies
 cd into project folder and run: bundle install
